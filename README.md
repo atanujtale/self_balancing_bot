@@ -88,6 +88,6 @@ Demonstration - https://youtu.be/BZcSurQdnyc
 ---
 
 ## 👨‍💻 Author
-Anuj Tale
-Aditya Tangde
-Prajwal Sontakke
+Anuj Tale(Team Leader),
+Aditya Tangde,
+Prajwal Sontakke.
