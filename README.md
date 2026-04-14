@@ -57,6 +57,11 @@ Simultaneously, Bluetooth commands allow the user to control movement and operat
 
 ---
 
+## 📸 Demo
+- Demonstration Link - https://youtu.be/BZcSurQdnyc
+
+---
+
 ## 📌 Future Improvements
 - Replace HC-05 with BLE (ESP32-based control)  
 - Add camera for vision-based control  
