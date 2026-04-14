@@ -1,4 +1,5 @@
 🤖 Self-Balancing Robot using LQR Control
+
 📌 Overview
 
 This project demonstrates a self-balancing robot (inverted pendulum system) stabilized using a Linear Quadratic Regulator (LQR). The robot maintains its upright position by continuously adjusting motor inputs based on real-time sensor feedback.
